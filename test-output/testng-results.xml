@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Webdriver" duration-ms="7158" started-at="2018-11-17T15:58:38Z" finished-at="2018-11-17T15:58:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7158" started-at="2018-11-17T15:58:38Z" finished-at="2018-11-17T15:58:45Z">
+      <class name="TestNG.selwebsite">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.selwebsite@77cd7a0]" name="launch" is-config="true" duration-ms="5977" started-at="2018-11-17T15:58:38Z" finished-at="2018-11-17T15:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:TestNG.selwebsite@77cd7a0]" name="verifylogin" duration-ms="1065" started-at="2018-11-17T15:58:44Z" finished-at="2018-11-17T15:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.selwebsite@77cd7a0]" name="close" is-config="true" duration-ms="3" started-at="2018-11-17T15:58:45Z" finished-at="2018-11-17T15:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.selwebsite -->
+    </test> <!-- Test -->
+  </suite> <!-- Webdriver -->
+</testng-results>
